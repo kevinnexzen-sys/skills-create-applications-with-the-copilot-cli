@@ -1,23 +1,20 @@
 ---
-name: Feature Request
-about: Suggest a new feature or enhancement for the calculator
+name: Feature request
+about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: ''
 assignees: ''
+
 ---
 
-## Feature Description
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-A clear and concise description of the feature you'd like to see.
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-## Use Case
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-Describe the use case or problem this feature would solve.
-
-## Proposed Solution
-
-How do you envision this feature working?
-
-## Additional Context
-
-Add any other context, screenshots, or examples about the feature request here.
+**Additional context**
+Add any other context or screenshots about the feature request here.
