@@ -8,7 +8,7 @@
     "workbench.startupEditor": "none",
     "terminal.integrated.hideOnLastClosed": false,
     "github.copilot.enable": {
-        "*": false
+        "*": true
     },
     "github.copilot.editor.enableAutoCompletions": true,
     "workbench.activityBar.location": "hidden",
@@ -17,7 +17,7 @@
     "explorer.autoReveal": true,
     "explorer.openEditors.visible": 0,
     "github.copilot-chat.enabled": true,
-    "chat.disableAIFeatures": true,
+    "chat.disableAIFeatures": false,
     "chat.editor.show": true,
     "workbench.panel.chat.view.enabled": true,
     "terminal.integrated.defaultLocation": "editor",
